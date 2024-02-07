@@ -2,13 +2,7 @@ Frondend Development
 
 Frontend development is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website.
 
-https://en.wikipedia.org/wiki/Graphical_user_interface
 
-https://en.wikipedia.org/wiki/HTML
-
-https://en.wikipedia.org/wiki/CSS
-
-https://en.wikipedia.org/wiki/JavaScript
 
 
 HTML: The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
